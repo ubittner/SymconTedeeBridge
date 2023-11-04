@@ -1,0 +1,16 @@
+{
+    "id": "{BE495811-E1CC-1BFE-E6AA-2E4A4707EC46}",
+    "name": "Tedee Bridge Local API",
+    "type": 2,
+    "vendor": "tedee",
+    "aliases": [],
+    "parentRequirements": [],
+    "childRequirements": [
+        "{D4A652E3-83EF-3802-41DD-4CE89F1EA461}"
+    ],
+    "implemented": [
+        "{6140B1BD-648F-6D1A-62FC-DA55EC3D1D44}"
+    ],
+    "prefix": "TB",
+    "url": "https://github.com/ubittner/SymconTedeeBridge"
+}

@@ -1,0 +1,16 @@
+{
+    "id": "{1B9EB8AC-6923-CDDA-625E-B2D765BC787E}",
+    "name": "Tedee Smart Lock Local API",
+    "type": 3,
+    "vendor": "tedee",
+    "aliases": [],
+    "parentRequirements": [
+        "{6140B1BD-648F-6D1A-62FC-DA55EC3D1D44}"
+    ],
+    "childRequirements": [],
+    "implemented": [
+        "{D4A652E3-83EF-3802-41DD-4CE89F1EA461}"
+    ],
+    "prefix": "TBSL",
+    "url": "https://github.com/ubittner/SymconTedeeBridge"
+}

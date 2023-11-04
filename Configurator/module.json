@@ -1,0 +1,16 @@
+{
+    "id": "{01227468-59DA-83D9-8541-440270A76FB1}",
+    "name": "Tedee Configurator Local API",
+    "type": 4,
+    "vendor": "tedee",
+    "aliases": [],
+    "parentRequirements": [
+        "{6140B1BD-648F-6D1A-62FC-DA55EC3D1D44}"
+    ],
+    "childRequirements": [],
+    "implemented": [
+        "{D4A652E3-83EF-3802-41DD-4CE89F1EA461}"
+    ],
+    "prefix": "TBC",
+    "url": "https://github.com/ubittner/SymconTedeeBridge"
+}

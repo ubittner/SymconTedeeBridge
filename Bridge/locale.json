@@ -1,0 +1,32 @@
+{
+    "translations": {
+        "de": {
+            "Active": "Aktiv",
+            "IP Address": "IP Adresse",
+            "Network Timeout": "Netzwerk Timeout",
+            "Milliseconds": "Millisekunden",
+            "Execution Timeout": "Maximale Ausführungszeit",
+            "Seconds": "Sekunden",
+            "Encrypt token": "Token verschlüsseln",
+            "Tedee documentation": "Tedee Dokumentation",
+            "Use automatic update": "Status automatisch aktualisieren",
+            "Activate this function to update the status automatically via Callback.": "Aktivieren Sie diese Funktion, um den Status automatisch mittels Callback zu aktualisieren.",
+            "Host IP-Address (IP-Symcon)": "Host IP-Adresse (IP-Symcon)",
+            "Developer area": "Entwicklerbereich",
+            "Paired Locks": "Gekoppelte Schlösser",
+            "Show Callbacks": "Callbacks anzeigen",
+            "Add Callback": "Callback hinzufügen",
+            "Do you really want to add a callback?": "Wollen Sie wirklich einen Callback hinzufügen?",
+            "Add": "Hinzufügen",
+            "Delete Callback": "Callback löschen",
+            "Do you really want to delete a callback?": "Wollen Sie wirklich einen Callback löschen?",
+            "Delete": "Löschen",
+            "Tedee Bridge (Local API) will be created": "Tedee Bridge (Local API) wird erstellt",
+            "Tedee Bridge (Local API) is active": "Tedee Bridge (Local API) ist aktiv",
+            "Tedee Bridge (Local API) will be deleted": "Tedee Bridge (Local API) wird gelöscht",
+            "Tedee Bridge (Local API) is inactive": "Tedee Bridge (Local API) ist inaktiv",
+            "An error has occurred, for further information see messages, log file or debug!": "Es ist Fehler aufgetreten, weitere Informationen unter Meldungen, im Log oder Debug!",
+            "Please check your configuration!": "Bitte überprüfen Sie Ihre Konfiguration"
+        }
+    }
+}

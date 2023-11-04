@@ -1,0 +1,11 @@
+{
+    "translations": {
+        "de": {
+            "Tedee Configurator Local API": "Tedee Konfigurator Local API",
+            "Configurator (Local API)": "Konfigurator (Local API)",
+            "Device ID": "Geräte ID",
+            "Serial number": "Seriennummer",
+            "Device type": "Gerätetyp"
+        }
+    }
+}

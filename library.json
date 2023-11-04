@@ -1,0 +1,12 @@
+{
+    "id": "{588D956B-BB64-219C-D65D-4C0A3577DA4B}",
+    "name": "TedeeBridge",
+    "author": "Ulrich Bittner",
+    "url": "https://github.com/ubittner/SymconTedeeBridge",
+    "compatibility": {
+        "version": "7.0"
+    },
+    "version": "1.0",
+    "build": 1,
+    "date": 1699091557
+}
