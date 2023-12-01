@@ -62,7 +62,7 @@ class TedeeBridgeLocalAPI extends IPSModuleStrict
         if (IPS_GetKernelRunlevel() != KR_READY) {
             return;
         }
-        
+
         //Check configuration
         if ($this->ValidateConfiguration()) {
             $this->SendDebug(__FUNCTION__, 'Configuration is valid', 0);
