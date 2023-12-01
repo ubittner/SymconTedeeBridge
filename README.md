@@ -30,7 +30,7 @@ Folgende Module beinhaltet dieses Repository (in alphabetischer Reihenfolge):
 
 #### :us: :uk: English:
 
-Integrates tedee into IP-Symcon. 
+Integrates tedee via the tedee Local API into IP-Symcon. 
 
 Make door smart.  
 Unlock it automatically and remotely with your smartphone or smart home system.
