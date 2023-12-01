@@ -21,7 +21,7 @@ Der Nutzer stimmt den o.a. Bedingungen, sowie den Lizenzbedingungen ausdrücklic
    1. [Bridge Info](#71-bridge-info)
    2. [Vorhandene Geräte ermitteln](#72-vorhandene-geräte-ermitteln)
    3. [Gerätestatus](#73-gerätestatus)
-   4. [Aufsperren](#74-ausperren)
+   4. [Aufsperren](#74-aufsperren)
    5. [Zusperren](#75-zusperren)
    6. [Entriegeln](#76-entriegeln)
 
