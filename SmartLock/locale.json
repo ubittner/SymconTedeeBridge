@@ -48,7 +48,17 @@
             "Action": "Aktion",
             "locked": "zugesperrt",
             "unlocked": "aufgesperrt",
-            "door opened": "Tür geöffnet"
+            "door opened": "Tür geöffnet",
+            "uncalibrated": "unkalibriert",
+            "calibration": "Kalibrierung",
+            "open": "geöffnet",
+            "partially_open": "Teilweise geöffnet",
+            "opening": "wird geöffnet",
+            "closing": "wird geschlossen",
+            "closed": "geschlossen",
+            "pull_spring": "Falle ziehen",
+            "pulling": "ziehen",
+            "unknown": "unbekannt"
         }
     }
 }
